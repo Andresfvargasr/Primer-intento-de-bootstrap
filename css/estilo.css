@@ -48,6 +48,13 @@ h5{
     font-family: 'Domine', serif;
     text-align: center
 }
+.videos{
+    align-items: center;
+    text-align: center;
+}
+.mapa{
+    text-align: center;
+}
 .nav{
     list-style: none;
     background-color:#facfaf8e;
@@ -72,4 +79,23 @@ nav li a:hover{
     -moz-border-radius: 4%;
     -ms-border-radius: 4%;
     -o-border-radius: 4%;
+}
+.form-register {
+    width: 400px;
+    background-color:#de9f6e81;
+    padding: 30px;
+    margin: auto;
+    margin-top: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.controles{
+    width: 100%;
+    background-color: #ffe8d6;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+.terminos{
+    text-decoration: none;
 }
