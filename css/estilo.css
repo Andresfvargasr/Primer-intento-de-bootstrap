@@ -1,6 +1,8 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    line-height: 2em;
 }
 body{
     background-image: url("../media/imagenes/cafe\ para\ llevar.jpg");
@@ -27,10 +29,14 @@ p{
     font-family: 'Domine', serif;
     text-align: center
 }
+.descripcion{
+    color: #797d62;
+}
 h3{
     color: #6b6e58;
     font-family: 'Domine', serif;
-    text-align: center
+    text-align: center;
+    color:#ffe8d6;
 }
 h4{
     color:#797d62;
