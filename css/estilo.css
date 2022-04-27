@@ -5,8 +5,7 @@
     line-height: 2em;
 }
 body{
-    background-image: url("../media/imagenes/cafe\ para\ llevar.jpg");
-    background-color: #ffe8d6;
+    background-color:antiquewhite;
     min-height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,7 +15,7 @@ body{
 }
 h1{
     color: #797d62;
-    font-family: 'Domine', serif;
+    font-family: 'Domine', serif; 
     text-align: center;
 }
 h2{
@@ -54,10 +53,11 @@ h5{
 }
 .mapa{
     text-align: center;
+    display: flexbox;
+
 }
 .nav{
     list-style: none;
-    background-color:#facfaf8e;
     height: 80px;
     display: flex;
     justify-content:space-around;
@@ -98,4 +98,12 @@ nav li a:hover{
 }
 .terminos{
     text-decoration: none;
+}
+.bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+}
+header{
+    color: #797d62;
+    font-family: 'Montserrat', sans-serif;
 }
