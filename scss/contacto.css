@@ -1,0 +1,23 @@
+tr .form-register {
+  width: 400px;
+  background-color: #de9f6e81;
+  padding: 30px;
+  margin: auto;
+  margin-top: 10px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+}
+
+tr .controles {
+  width: 100%;
+  background-color: #ffe8d6;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+}
+
+tr .terminos {
+  text-decoration: none;
+}
+/*# sourceMappingURL=contacto.css.map */

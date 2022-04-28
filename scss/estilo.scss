@@ -1,0 +1,17 @@
+body{
+    background-color:antiquewhite;
+    min-height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+        .bi {
+        vertical-align: -.125em;
+        fill: currentColor;
+    }
+}
+@import "main";
+@import "container";
+@import "video";
+@import "contacto";
+@import "nav";
